@@ -1,0 +1,10 @@
+./client/node_modules
+/dist
+.env
+*.log
+__pycache__/
+*.pyc
+/model.pkl
+./backend/__pycache__/
+./backend/model.pkl
+./backend/venv/
